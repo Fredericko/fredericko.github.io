@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+html,
+body {
+    height: 80vh;
+    width: 80vw;
+}
+
+body {
+    background-color: #ecf0f1;  
+}
+
+canvas{
+    display: block;
+    margin: 10px auto;
+}
+
+@media only screen and (max-width: 1023px) {
+    canvas {
+      height: 400px;
+      width: 400px;
+      margin-top: 5px;
+    }
+}
