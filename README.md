@@ -2,5 +2,5 @@
 
 Site criado para a exibição de meu portifólio.
 
-#💻Tecnologias💻
+# 💻Tecnologias💻
 HTML, CSS, Javascript
